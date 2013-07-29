@@ -1,0 +1,20 @@
+# humanstxt.org
+# The humans and technologies responsible
+
+# HUMANS
+
+    Author: Andrew Seidl
+    Twitter: @andrew_seidl
+    Location: Madison, Wisconsin
+
+# TECHNOLOGIES
+
+    HTML5, CSS3
+    Pelican, Normalize.css, HTML5 Boilerplate, FontAwesome
+
+    Amazon S3 + CloudFront + Route53
+
+    Vim, Sublime Text, GIMP
+
+    Source: https://github.com/aseidl/aseidl.github.io
+    Theme Source: https://github.com/aseidl/aasio-theme

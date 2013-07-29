@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 <head>
-    <title>Andrew Seidl</title>
+    <title>About</title>
     <meta charset="utf-8" />
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -12,6 +12,23 @@
     <link rel="stylesheet" href="/theme/css/main.css" type="text/css" />
     <link href="http://netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css" rel="stylesheet">
     <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Andrew Seidl Atom Feed" />
+    
+    <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type= "text/javascript">
+       MathJax.Hub.Config({
+           config: ["MMLorHTML.js"],
+           jax: ["input/TeX","input/MathML","output/HTML-CSS","output/NativeMML"],
+           TeX: { extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"], equationNumbers: { autoNumber: "AMS" } },
+           extensions: ["tex2jax.js","mml2jax.js","MathMenu.js","MathZoom.js"],
+           tex2jax: { 
+               inlineMath: [ ['$','$'] ],
+               displayMath: [ ['$$','$$'] ],
+               processEscapes: true },
+           "HTML-CSS": {
+               styles: { ".MathJax .mo, .MathJax .mi": {color: "black ! important"}}
+           }
+       });
+    </script>
+
 </head>
 
 <body>
@@ -32,28 +49,18 @@
     <div class="main-container">
         <div class="main wrapper clearfix">
                     
-    <header class="clearfix">
-        <h1>
-            <a href="/2013/selecting-a-gpu/">Selecting a GPU</a>
-            <abbr class="published" title="2013-07-24T00:00:00">
-                <small>24 Jul 2013</small>
-            </abbr>
-        </h1>
-    </header>
-    <header class="clearfix">
-        <h1>
-            <a href="/2013/tips-tricks-ssh_config/">Tips &amp; Tricks: ssh_config</a>
-            <abbr class="published" title="2013-07-23T00:00:00">
-                <small>23 Jul 2013</small>
-            </abbr>
-        </h1>
-    </header>
+			<article>
+				<header>
+					<h1>
+						<a href="/about/" rel="bookmark" title="Permalink to About">About</a>
+					</h1>
+				</header>
 
-    <header class="clearfix">
-        <h1>
-            <a href="/about/">About</a>
-        </h1>
-    </header>
+				<div class="content">
+<p>Graduate student, systems architect, sysadmin, developer.</p>
+<p>@aseidl</p>
+				</div>
+			</article>
 
         </div>
     </div>

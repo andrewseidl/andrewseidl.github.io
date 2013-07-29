@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Andrew Seidl</title><link href="/" rel="alternate"></link><link href="/feeds/academic.atom.xml" rel="self"></link><id>/</id><updated>2013-07-24T00:00:00-05:00</updated><entry><title>Selecting a GPU</title><link href="/2013/selecting-a-gpu/" rel="alternate"></link><updated>2013-07-24T00:00:00-05:00</updated><author><name>Andrew Seidl</name></author><id>tag:,2013-07-24:2013/selecting-a-gpu/</id><summary type="html">&lt;div class="highlight"&gt;&lt;pre&gt;Host */*
+ProxyCommand ssh &lt;span class="k"&gt;$(&lt;/span&gt;dirname %h&lt;span class="k"&gt;)&lt;/span&gt; -W &lt;span class="k"&gt;$(&lt;/span&gt;basename %h&lt;span class="k"&gt;)&lt;/span&gt;:%p
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h1&gt;Testing&lt;/h1&gt;
+&lt;p&gt;oh, w00t &lt;code&gt;~/.ssh/config&lt;/code&gt;
+~/.ssh/config&lt;/p&gt;
+&lt;h2&gt;Uh no&lt;/h2&gt;
+&lt;p&gt;nope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope $\delta$ nope nopenope &lt;a href="http://google.com"&gt;nope&lt;/a&gt; nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nopenope nope nope &lt;/p&gt;
+&lt;p&gt;$$x^2+\phi-2\pi r^4$$&lt;/p&gt;</summary></entry></feed>
