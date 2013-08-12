@@ -16,5 +16,5 @@
 
     Vim, Sublime Text, GIMP
 
-    Source: https://github.com/aseidl/aseidl.github.io
-    Theme Source: https://github.com/aseidl/aasio-theme
+    Source: https://github.com/andrewseidl/andrewseidl.github.io
+    Theme Source: https://github.com/andrewseidl/andrewseidl-theme
